@@ -1,0 +1,2 @@
+# spider_taobao
+使用selenium爬取淘宝商品并保存到mangodb数据库
